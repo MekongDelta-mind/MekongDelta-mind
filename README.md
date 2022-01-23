@@ -5,7 +5,12 @@
 # Intro about Me:
 
 <!-- Writing about your self, what you have worked on, what you are working on and what you wish to work on -->
+Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 
+
+* I have experience working on Java Servlet, JDBC, Hibernate, SQL
+* I'm currently working on Data Science( Descriptive and Predictive Analytics using Python) and Web Development(Backend - Spring Framework)
+* I'm looking for help with finding remote jobs(Data Science or Web Development(Backend)), learning Devops and Blockchain.
 
 
 ### Language :

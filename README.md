@@ -32,7 +32,7 @@ Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 ### Personal Portfolio(Data Science) link
 
 <!-- Adding some info about the Jovian platform and then adding the overview link  -->
-Jovian is an end-to-end cloud platform for data science and machine learning, designed to provide the best hands-on learning experience. I have all jupyter notebooks which I created for solving the problem statements in the hackathons here. Please visit the link [here](https://jovian.ai/pknayak0707-job/overview). Some of the notebooks are private and can't be accessed.
+Jovian is an end-to-end cloud platform for data science and machine learning, designed to provide the best hands-on learning experience. I have all jupyter notebooks which I created for solving the problem statements in the hackathons [here](https://jovian.ai/pknayak0707-job/overview). **NOTE**: Some of the notebooks are private and can't be accessed.
 
 ## 📈 Stats
 <p align="center">

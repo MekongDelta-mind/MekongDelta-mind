@@ -46,5 +46,11 @@ Jovian is an end-to-end cloud platform for data science and machine learning, de
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MekongDelta-mind&theme=vue-dark" />
 </p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Personal Notion Blog](https://www.notion.so/mekongdelta/PKN-s-blog-59a0c5bdd61b477f9b4f9fa68f151b6e)
+- [Personal Hashnode Blog(Coming Soon)]()
+<!-- BLOG-POST-LIST:END -->
+
 ## Number of times the profile was Visited
 ![](https://komarev.com/ghpvc/?username=MekongDelta-mind&color=green&style=plastic&label=PROFILE+VIEWS)

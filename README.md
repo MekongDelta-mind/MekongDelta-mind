@@ -39,12 +39,15 @@ Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 <!-- Adding some info about the Jovian platform and then adding the overview link  -->
 Jovian is an end-to-end cloud platform for data science and machine learning, designed to provide the best hands-on learning experience. I have all jupyter notebooks which I created for solving the problem statements in the hackathons [here](https://jovian.ai/pknayak0707-job/overview). **NOTE**: Some of the notebooks are private and can't be accessed.
 
-## 📈 Stats
+<!-- REMOVING STATS BECAUSE TEH GITHUB DEFAULT STATS ARE ENOUGH AND ALSO MAKING THE PAGE TOO LONG DOESN'T LET OTHERS TO REACH BELOW FOR THE PROJECTS. -->
+<!-- ## 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MekongDelta-mind&theme=vue-dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MekongDelta-mind&theme=vue-dark" />
-</p>
+</p> -->
+
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -52,5 +55,4 @@ Jovian is an end-to-end cloud platform for data science and machine learning, de
 - [Personal Hashnode Blog(Coming Soon)]()
 <!-- BLOG-POST-LIST:END -->
 
-## Number of times the profile was Visited
-![](https://komarev.com/ghpvc/?username=MekongDelta-mind&color=green&style=plastic&label=PROFILE+VIEWS)
+

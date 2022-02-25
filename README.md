@@ -9,8 +9,8 @@ Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 
 
 * I have experience working on Java Servlet, JDBC, Hibernate, SQL
-* I'm currently working on Data Science( Descriptive and Predictive Analytics using Python) and Web Development(Backend - Spring Framework)
-* I'm looking for help with finding remote jobs(Data Science or Web Development(Backend)), learning Devops and Blockchain.
+* I'm currently working on Data Science( Descriptive and Predictive Analytics using Python ) and Web Development( Backend - Spring Framework )
+* I'm looking for help with finding remote jobs ( Data Science or Web Development ( Backend ) ), learning DevOps and Blockchain.
 * You can reach me on:
 	* email: pknayak0707.job@gmail.com
 	* linkedin: https://www.linkedin.com/in/pknayak2018/

@@ -8,9 +8,11 @@
 Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 
 
-* I have experience working on Java Servlet, JDBC, Hibernate, SQL
-* I'm currently working on Data Science( Descriptive and Predictive Analytics using Python ) and Web Development( Backend - Spring Framework )
-* I'm looking for help with finding remote jobs ( Data Science or Web Development ( Backend ) ), learning DevOps and Blockchain.
+* Actively seeking opportunities to contribute and learn, particularly in MLOps and Data Engineering.
+* Currently engaged in Data Analytics and Data Science, primarily using Python.
+* Please check my projects in the `Pinned` section below.
+* Previous experience as a Backend Developer, working with Java Servlet, JDBC, Hibernate, and SQL.
+* Open to collaborations on interesting Data Science challenges; please don't hesitate to reach out.
 * You can reach me on:
 	* email: pknayak0707.job@gmail.com
 	* linkedin: https://www.linkedin.com/in/pknayak2018/
@@ -19,20 +21,28 @@ Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 
 
 ### Language :
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/logo-Python-blue?style=flat-square&logo=python)
+![PostgreSQL](https://img.shields.io/badge/logo-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&&logo=mysql)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
 
 
 ### Libraries & Framework :
-<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+
+### Vizualization Tools: 
+![Metabase](https://img.shields.io/badge/logo-Metabase-blue?style=flat-square&logo=metabase)
 
 
-### DevOps & Cloud Tools:
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Personal Notion Blog](https://www.notion.so/mekongdelta/PKN-s-blog-59a0c5bdd61b477f9b4f9fa68f151b6e)
+- [Personal Hashnode Blog(Coming Soon)]()
+<!-- BLOG-POST-LIST:END -->
 
 ### Personal Portfolio(Data Science) link
 
@@ -46,13 +56,3 @@ Jovian is an end-to-end cloud platform for data science and machine learning, de
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MekongDelta-mind&theme=vue-dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MekongDelta-mind&theme=vue-dark" />
 </p> -->
-
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Personal Notion Blog](https://www.notion.so/mekongdelta/PKN-s-blog-59a0c5bdd61b477f9b4f9fa68f151b6e)
-- [Personal Hashnode Blog(Coming Soon)]()
-<!-- BLOG-POST-LIST:END -->
-
-

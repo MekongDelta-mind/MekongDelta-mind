@@ -40,7 +40,7 @@ Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Personal Notion Blog](https://www.notion.so/mekongdelta/PKN-s-blog-59a0c5bdd61b477f9b4f9fa68f151b6e)
+- [Personal Notion Blog](https://mekongdelta.notion.site/Welcome-to-Prabin-s-Portfolio-33018b1721eb4e0faace03a98b67a84d)
 - [Personal Hashnode Blog(Coming Soon)]()
 <!-- BLOG-POST-LIST:END -->
 

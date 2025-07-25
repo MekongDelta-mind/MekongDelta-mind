@@ -8,11 +8,10 @@
 Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 
 
-* Actively seeking opportunities to contribute and learn, particularly in MLOps and Data Engineering.
-* Currently engaged in Data Analytics and Data Science, primarily using Python.
+* Actively seeking opportunities to contribute and learn, particularly in Data Engg and MLOps.
+* Currently engaged in Data Analytics and Machine Learning, primarily using Python.
 * Please check my projects in the `Pinned` section below.
 * Previous experience as a Backend Developer, working with Java Servlet, JDBC, Hibernate, and SQL.
-* Open to collaborations on interesting Data Science challenges; please don't hesitate to reach out.
 * You can reach me on:
 	* email: pknayak0707.job@gmail.com
 	* linkedin: https://www.linkedin.com/in/pknayak2018/

@@ -13,6 +13,7 @@ Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 * Please check my projects in the `Pinned` section below.
 * Previous experience as a Backend Developer, working with Java Servlet, JDBC, Hibernate, and SQL.
 * You can reach me on:
+	* [Portfolio Website](https://mekongdelta.notion.site/Welcome-to-Prabin-s-Portfolio-33018b1721eb4e0faace03a98b67a84d)
 	* email: pknayak0707.job@gmail.com
 	* linkedin: https://www.linkedin.com/in/pknayak2018/
 	* Twitter: https://twitter.com/PrabinKNayak
@@ -39,7 +40,7 @@ Hi, I'm Prabin Kumar Nayak.  Thanks for visiting my profile !!!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Personal Notion Blog](https://mekongdelta.notion.site/Welcome-to-Prabin-s-Portfolio-33018b1721eb4e0faace03a98b67a84d)
+`Coming Soon....`
 
 <!-- - [Personal Hashnode Blog(Coming Soon)]() -->
 
